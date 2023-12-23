@@ -26,15 +26,9 @@ Another code editor is Visual Studio Code it is a free code editor and owned by 
 
 After installing vs code you need to install python extension
 
-fallow this step-by-step image process to install this python extension
+fallow this steps image process to install this python extension
 
-Step 1 >>
-
-![Vs code.png](..%2F..%2F..%2F..%2FVs%20code.png)
-
-Step 2 >> 
-
-![Vs code_2.png](..%2F..%2F..%2F..%2FVs%20code_2.png)
+![How to install python extension in vs code](https://www2.lawrence.edu/fast/GREGGJ/CMSC210/intro/setup3.png)
 
 ### First Python Program
 
