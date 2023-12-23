@@ -8,4 +8,4 @@ In this get started with python we will install python software in our computer 
 
 Many PCs and Macs will have python already installed.
 
-To install python you can visit [python.org](https://www.python.org/downloads/){:target="_blank"}
+To install python you can visit [python.org](https://www.python.org/downloads/)
