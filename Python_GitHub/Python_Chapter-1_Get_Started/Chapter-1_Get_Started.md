@@ -13,6 +13,11 @@ You can check if python is already install in your systems. To check it write th
 ```commandline
 python --version
 ```
-If you find that you do not have Python installed on your computer, then you can download it for free by visiting [python.org](https://www.python.org/downloads/) website.
 
-After installing python software you need to install text editor. Text editors are many type you
+### Code Editor Installation
+
+If you find that you do not have python installed on your computer, then you can download it for free by visiting [python.org](https://www.python.org/downloads/) website.
+
+After installing python you need to install a code editor. There are many different code editor with you can choose but in this tutorial we will use PyCharm to install PyCharm visit [jetbrains.com](https://www.jetbrains.com/pycharm/download/?section=windows) website. 
+
+JetBrains is an official website to install pycharm but here is an important point pycharm has two versions one of them is _Professional version_ and another is _Community Edition version_. In this tutorial we will use _pycharm Community Edition_ b
