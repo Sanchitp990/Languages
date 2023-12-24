@@ -24,9 +24,7 @@ JetBrains is an official website to install pycharm but here is an important poi
 
 Another code editor is Visual Studio Code it is a free code editor and owned by microsoft to install vs code or Visual Studio Code visit [code.visualstudio.com](https://code.visualstudio.com/download) website.
 
-After installing vs code you need to install python extension
-
-fallow this steps image process to install this python extension
+After installing vs code you need to install python extension fallow this steps image process to install this python extension :
 
 ![How to install python extension in vs code](https://www2.lawrence.edu/fast/GREGGJ/CMSC210/intro/setup3.png)
 
@@ -34,3 +32,4 @@ fallow this steps image process to install this python extension
 
 After installing all the things we can write our first python program.
 
+First create .py file 
