@@ -32,4 +32,10 @@ After installing vs code you need to install python extension fallow this steps 
 
 After installing all the things we can write our first python program.
 
-First create .py file 
+First create (.py) file in your code editor. After creating .py file in your code editor write your first python program to print "Hello, world!".
+
+```python
+print("Hello, world!")
+```
+
+If the output is `Hello, world!` congress you have written your first python program 
