@@ -42,7 +42,7 @@ class Main {
 ## Difference between Python and Java
 
 | Python                                   | Java                                               |
-|------------------------------------------|----------------------------------------------------|
+| ---------------------------------------- | -------------------------------------------------- |
 | 1. Interpreted language                  | 1. Compiled language                               |
 | 2. Emphasizes simplicity and readability | 2. Emphasizes object-oriented programming          |
 | 3. Dynamic typing                        | 3. Static typing                                   |
