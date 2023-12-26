@@ -87,3 +87,9 @@ Python is widely used for :-
 - web development,
 - data analysis,
 - artificial intelligence, and more.
+
+## Features of Python
+
+In python features we cover only 3 main features of Python :
+
+- 
