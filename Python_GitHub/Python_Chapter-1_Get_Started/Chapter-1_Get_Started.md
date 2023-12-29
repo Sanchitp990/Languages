@@ -22,7 +22,7 @@ After installing python you need to install a code editor. There are many differ
 
 After installing vs code you need to install python extension fallow this steps image process to install this python extension :
 
-![How to install python extension in vs code](<Python extension for Visual Studio Code.png>)
+![How to install python extension in vs code](</GitHub using Images/Python extension for Visual Studio Code.png>)
 
 ### First Python Program
 
