@@ -36,5 +36,4 @@ print("Hello, world!")
 
 If the output is `Hello, world!` congress you have written your first python program.
 
-
-[❮ Previous](Python_Chapter-0_Introduction)
+[❮ Previous](</Python_GitHub/Python_Chapter-0_Introduction/Chapter-0_Introduction.md>)
