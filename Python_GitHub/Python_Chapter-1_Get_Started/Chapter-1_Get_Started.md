@@ -36,5 +36,7 @@ print("Hello, world!")
 
 If the output is `Hello, world!` congress you have written your first python program.
 
-[❮ Previous](</Python_GitHub/Python_Chapter-0_Introduction/>)		&nbsp;&nbsp;&nbsp;&nbsp;[Next ❯](</Python_GitHub/Python_Chapter-2_Data_Types/>)
+[❮ Previous](</Python_GitHub/Python_Chapter-0_Introduction/>)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[Next ❯](</Python_GitHub/Python_Chapter-2_Data_Types/>)
 
