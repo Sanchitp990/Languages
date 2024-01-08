@@ -36,7 +36,7 @@ First create (.py) file in your code editor. After creating .py file in your cod
 print("Hello, world!")
 ```
 
-If the output is `Hello, world!` congress you have written your first python program
+If the output is `Hello, world!` congress you have written your first python program.
 
 <br>
 
