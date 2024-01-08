@@ -19,9 +19,7 @@ If you find that you do not have python installed on your computer, then you can
 ### Code Editor Installation
 
 After installing python you need to install a code editor. There are many different code editor with you can choose but in this tutorial we will use Visual Studio Code it is a free code editor and owned by microsoft to install vs code or Visual 
-Studio Code visit <a href="(https://code.visualstudio.com/download)">
-  <img src="/GitHub using Images/VS code.png" alt="Visual Studio Code">
-</a>
+Studio Code visit [code.visualstudio.com](https://code.visualstudio.com/download)
 website.
 
 After installing vs code you need to install python extension fallow this steps in the image process to install this python extension :
